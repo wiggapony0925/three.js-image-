@@ -1,5 +1,4 @@
 # 3d-image
 # 3d-image
-# three.js-image-
-# three.js-image-
-# three.js-image-
+ watch dev as life vid on uploading gibi tree 
+ read fill 'tree.js' documentation
