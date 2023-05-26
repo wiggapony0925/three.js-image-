@@ -1,0 +1,19 @@
+{
+  "name": "3d-image",
+  "version": "1.0.0",
+  "description": "A simple 3d shape to get started with three.js ",
+  "main": "main.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiggapony0925/three.js-image-example.git"
+  },
+  "author": "wiggapony0925",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/wiggapony0925/three.js-image-example/issues"
+  },
+  "homepage": "https://github.com/wiggapony0925/three.js-image-example#readme"
+}
