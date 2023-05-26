@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wiggapony0925/three.js-image-example/issues"
   },
-  "homepage": "https://github.com/wiggapony0925/three.js-image-example#readme"
+  "homepage": "https://github.com/wiggapony0925/three.js-image-example#readme",
+  "dependencies": {
+    "three": "^0.152.2"
+  }
 }
