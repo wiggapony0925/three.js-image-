@@ -7,3 +7,4 @@
  find out the proper apis and frameworks to use.
  find out how to we can make the 3d model
 find out how to make the object have functionalities with buttons
+find out the proper camera
