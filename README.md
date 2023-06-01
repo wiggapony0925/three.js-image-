@@ -9,3 +9,6 @@
 find out how to make the object have functionalities with buttons
 find out the proper camera
 find out how to render the virtual tour
+
+
+porject saved for further period of time n period of revolution
